@@ -8,7 +8,7 @@ export default function Post() {
     return(
         <View>
             <View style={{ flexDirection:'row', alignItems: 'center'}}>
-                <Name nameText={"Fedy Fabar"} />
+                <Name nameText={"Freddy Fazbear"} />
                 <Picture />
             </View>
             <Message messageText={ "Message: hor hor hor hor, horhorhorhorhor, hor hor horhor, hor hor horhor :3 *proceeds to jump scare you*"} />
